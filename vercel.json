@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/ReactTest/:path*",
+        "destination": "https://your-backend-domain.com/ReactTest/:path*"
+      }
+    ]
+  }
+  
